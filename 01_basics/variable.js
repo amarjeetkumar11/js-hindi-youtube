@@ -4,6 +4,7 @@ var accPass='122';
 accPass=12;
 // account_Id=12; not allowed
 //let is used in common practice
+//  prefer not to use var because of issue in scope 
 
 
 
